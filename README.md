@@ -1,2 +1,2 @@
 # Spatial_Analytics
-It deals with geographic information system (GIS) using ArcGIS Pro. for spatial analytics
+This repository deals with the spatial analytics using Arc GIS & Geo Pandas.
