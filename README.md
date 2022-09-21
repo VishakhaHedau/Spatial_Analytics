@@ -1,2 +1,2 @@
 # Spatial_Analytics
-This repository deals with the spatial analytics using Arc GIS & Geo Pandas.
+This repository contains projects of spatial analytics using Arc GIS & Geo Pandas.
